@@ -2,7 +2,7 @@ FRN-Raspberry-Pi-GPIO
 =====================
 
 This is a port of the Client.pm file from Froller. It uses the source from https://code.google.com/p/linux-frn-client/ and
-has been modified to use GPIO in addition to the USB COM-Keyer.
+has been modified to use GPIO pins on the Raspberry-Pi instead of the USB COM-Keyer.
 
 It uses GPIO pin 11 by default but this can be modified in the setPTT.sh file enclosed.
 
